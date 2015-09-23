@@ -55,6 +55,6 @@ mods.extraUtils.QED.removeRecipe(MeIngotCopper);
 mods.extraUtils.QED.removeRecipe(ETIngotCopper);
 
 //OutputStack
-mods.appeng.Grinder.removeRecipe(<ImmersiveEngineering:metal:10>);
+//mods.appeng.Grinder.removeRecipe(<ImmersiveEngineering:metal:10>);
 //InputStack, OutputStack1, Turns, OutputStack2, OutputStackChance2, OutputStack3, OutputStackChance3
-mods.appeng.Grinder.addRecipe(<ThermalFoundation:Ore>, <ThermalFoundation:material:32>, 4, <ThermalFoundation:material:32>, 0.9);
+//mods.appeng.Grinder.addRecipe(<ThermalFoundation:Ore>, <ThermalFoundation:material:32>, 4, <ThermalFoundation:material:32>, 0.9);

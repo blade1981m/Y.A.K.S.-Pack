@@ -1,0 +1,268 @@
+{
+"Sulfur": {
+        "template": "uniform",
+        "block": "Railcraft:tile.railcraft.ore",
+        "material": "stone",
+        "clusterSize": 4,
+        "numClusters": 4,
+        "minHeight": 0,
+        "maxHeight": 24,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Yellorite": {
+        "template": "uniform",
+        "block": "BigReactors:YelloriteOre",
+        "material": "minecraft:stone",
+        "clusterSize": 5,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 36,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"CertusQuartz": {
+        "template": "uniform",
+        "block": [
+            {"name": "appliedenergistics2:tile.OreQuartz", "weight":95},
+            {"name": "appliedenergistics2:tile.OreQuartzCharged", "weight":5}
+        ],
+        "clusterSize": 8,
+        "numClusters": 8,
+        "minHeight": 38,
+        "maxHeight": 54,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Aluminium": {
+        "template": "uniform",
+        "block": {"name": "TConstruct:SearedBrick", "metadata": 5},
+        "clusterSize": 8,
+        "numClusters": 10,
+        "minHeight": 40,
+        "maxHeight": 70,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Apatite": {
+        "template": "uniform",
+        "block": "Forestry:resources",
+        "material": "stone",
+        "clusterSize": 10,
+        "numClusters": 7,
+        "minHeight": 48,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Limestone1": {
+        "template": "uniform",
+        "block": [
+            {"name": "chisel:limestone", "weight":90},
+            {"name": "harvestcraft:salt", "weight":10}
+        ],
+        "material": "stone",
+        "clusterSize": 25,
+        "numClusters": 4,
+        "minHeight": 32,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Limestone2": {
+        "template": "uniform",
+        "block": [
+            {"name": "chisel:limestone", "weight":90},
+            {"name": "Mariculture:rocks", "metadata": 3, "weight":10}
+        ],
+        "material": "stone",
+        "clusterSize": 25,
+        "numClusters": 3,
+        "minHeight": 32,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Marble": {
+        "template": "uniform",
+        "block": "chisel:marble",
+        "material": "stone",
+        "clusterSize": 25,
+        "numClusters": 6,
+        "minHeight": 32,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Teslatite": {
+        "template": "uniform",
+        "block": "bluepower:teslatite_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 4,
+        "minHeight": 0,
+        "maxHeight": 20,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Osmium": {
+        "template": "uniform",
+        "block": "Mekanism:OreBlock",
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 12,
+        "minHeight": 0,
+        "maxHeight": 60,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Zinc": {
+        "template": "uniform",
+        "block": {"name": "Steamcraft:steamcraftOre", "metadata": 1},
+        "material": "minecraft:stone",
+        "clusterSize": 7,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Emery": {
+        "template": "uniform",
+        "block": {"name": "eng_toolbox:ore", "metadata": 2},
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 6,
+        "minHeight": 32,
+        "maxHeight": 127,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Shadow": {
+        "template": "uniform",
+        "block": "TaintedMagic:OreShadow",
+        "material": "minecraft:stone",
+        "clusterSize": 4,
+        "numClusters": 20,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Silicon": {
+        "template": "uniform",
+        "block": {"name": "GalacticraftCore:tile.gcBlockCore", "metadata": 8},
+        "material": "minecraft:stone",
+        "clusterSize": 8,
+        "numClusters": 8,
+        "minHeight": 0,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    },
+"Tungsten": {
+        "template": "uniform",
+        "block": "bluepower:tungsten_ore",
+        "material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 2,
+        "minHeight": 1,
+        "maxHeight": 10,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}
