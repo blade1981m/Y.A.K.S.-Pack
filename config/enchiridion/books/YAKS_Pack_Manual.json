@@ -1,0 +1,4427 @@
+{
+  "book": [
+    {
+      "features": [
+        {
+          "type": "FeatureImage",
+          "properties": {
+            "path": "YAKS_Pack_Manual/YAKS Pack.png",
+            "xPos": 65,
+            "yPos": 9,
+            "width": 100.0,
+            "height": 100.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Welcome to...",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 39,
+            "yPos": 112,
+            "width": 76.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "That\u0027s short for \"Yet Another Kitchen Sink\" Pack.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 39,
+            "yPos": 159,
+            "width": 149.0,
+            "height": 28.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Y.A.K.S. Pack",
+            "wrap": 0,
+            "size": 2.0,
+            "color": "FFD2691E",
+            "xPos": 59,
+            "yPos": 132,
+            "width": 150.0,
+            "height": 14.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "The name says it all, there\u0027s a lot of stuff going on here and there\u0027s no way we could cover it all.  However, we can\u0027t just leave you without an idea on where to start.  Browse this book for information on how to survive, discover new mods, and have fun!\n\nIf you you lose this book...Good luck!  But seriously don\u0027t lose it, something really bad might happen.  If you die, don\u0027t forget to check the grave that was left behind.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 229,
+            "yPos": 20,
+            "width": 160.0,
+            "height": 164.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 226,
+            "yPos": 194,
+            "width": 73.0,
+            "height": 15.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "To the TOC -\u003e",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 228,
+            "yPos": 198,
+            "width": 84.0,
+            "height": 10.0
+          }
+        }
+      ],
+      "pageName": "Intro1"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:string:0:minecraft:paper:0:minecraft:string:0:minecraft:paper:0",
+            "recipeType": "ShapedOreRecipe",
+            "item": "Enchiridion:items 1",
+            "xPos": 48,
+            "yPos": 135,
+            "width": 128.0,
+            "height": 64.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "In the coming pages there will be a lot of books explaining the numerous mods in this pack, so you might need a book binder (or two!) to keep them all safe in one place.\n\nBelow is how to create a book binder!  Right click to open it, then put all your books inside.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 35,
+            "yPos": 26,
+            "width": 153.0,
+            "height": 99.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "If you hit H to open the Wiki, then click Library in the upper right you will find (almost) all of the books you have found or crafted.  They will stay there even if you lose the original books.\n\nBe sure to make good use of NEI and even your favorite search engine, since many of the mods in this pack do not have in-game information available.\n\nNext, onto the meat of the YAKS.  The table of contents will take you where you need to go.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 229,
+            "yPos": 24,
+            "width": 162.0,
+            "height": 157.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 226,
+            "yPos": 194,
+            "width": 73.0,
+            "height": 15.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "To the TOC -\u003e",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 228,
+            "yPos": 198,
+            "width": 84.0,
+            "height": 10.0
+          }
+        }
+      ],
+      "pageName": "Intro2"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Table of Contents",
+            "wrap": 0,
+            "size": 2.0,
+            "color": "FFD2691E",
+            "xPos": 70,
+            "yPos": 20,
+            "width": 92.0,
+            "height": 38.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Basics:",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF555555",
+            "xPos": 42,
+            "yPos": 66,
+            "width": 135.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Advanced:",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF555555",
+            "xPos": 239,
+            "yPos": 26,
+            "width": 137.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:mcpamItem",
+            "xPos": 50,
+            "yPos": 84,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Food and Hunger",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 54,
+            "yPos": 118,
+            "width": 102.0,
+            "height": 13.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "battlegear2:waraxe.stone 0",
+            "xPos": 124,
+            "yPos": 148,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Tools and Weapons",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 69,
+            "yPos": 184,
+            "width": 110.0,
+            "height": 14.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Magic",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 302,
+            "yPos": 62,
+            "width": 33.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Technology",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 272,
+            "yPos": 114,
+            "width": 64.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Other",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 303,
+            "yPos": 161,
+            "width": 35.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Thaumcraft:ItemThaumometer",
+            "xPos": 256,
+            "yPos": 57,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "ComputerCraft:CC-Computer 0",
+            "xPos": 338,
+            "yPos": 103,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:frograwItem",
+            "xPos": 261,
+            "yPos": 156,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Food",
+            "texture": "",
+            "xPos": 51,
+            "yPos": 90,
+            "width": 96.0,
+            "height": 38.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Tools",
+            "texture": "",
+            "xPos": 65,
+            "yPos": 148,
+            "width": 103.0,
+            "height": 46.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Magic",
+            "texture": "",
+            "xPos": 250,
+            "yPos": 55,
+            "width": 122.0,
+            "height": 35.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Botania:pylon 0",
+            "xPos": 336,
+            "yPos": 50,
+            "width": 39.0,
+            "height": 39.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minechem:tile.opticalMicroscope",
+            "xPos": 227,
+            "yPos": 98,
+            "width": 42.0,
+            "height": 42.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TwilightForest:item.oreMagnet 0",
+            "xPos": 335,
+            "yPos": 149,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Tech",
+            "texture": "",
+            "xPos": 229,
+            "yPos": 99,
+            "width": 144.0,
+            "height": 40.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Other",
+            "texture": "",
+            "xPos": 259,
+            "yPos": 151,
+            "width": 115.0,
+            "height": 36.0
+          }
+        }
+      ],
+      "pageName": "TOC"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Food and Hunger",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 51,
+            "yPos": 26,
+            "width": 150.0,
+            "height": 19.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "This pack heavily modifies food requirements for a more challenging survival experience.  Hunger Overhaul and Spice of Life make some significant changes to the way hunger works.  Agricraft was added to drastically change the way farming works and adds a mutation element, because mutants are cool.  And Pam\u0027s Harvestcraft was added to increase food variety for fun and profit!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 38,
+            "yPos": 54,
+            "width": 152.0,
+            "height": 118.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "First and foremost, you\u0027ll need a Mattock which is made using the super secret mod described in the next section.  Hoes no longer do the tricks you expect of them.\n\nRight click on some grass blocks with the Mattock to get seeds, no more hacking down tall weeds!  You can also break the various gardens in the wilderness to get a greater variety of food items to work with.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 231,
+            "yPos": 37,
+            "width": 160.0,
+            "height": 119.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:mattock 0 {InfiTool:{MiningSpeed2:525,BaseDurability:179,Head:3,BaseAttack:6,ToolEXP:0L,Built:1b,HarvestLevel:1,Attack:6,RenderHead:3,ModDurability:0.0f,Handle:3,Broken:0b,Shoddy:0.0f,RenderHandle:3,Accessory:3,MiningSpeed:525,RenderAccessory:3,ToolLevel:1,Unbreaking:0,Damage:0,HarvestLevel2:1,BonusDurability:0,TotalDurability:179,Modifiers:1},display:{Name:\"ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¦ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¡ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§fFlint Mattock\"}}",
+            "xPos": 253,
+            "yPos": 11,
+            "width": 25.0,
+            "height": 25.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:gourdgarden",
+            "xPos": 236,
+            "yPos": 163,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:leafygarden",
+            "xPos": 292,
+            "yPos": 164,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:berrygarden",
+            "xPos": 346,
+            "yPos": 164,
+            "width": 32.0,
+            "height": 32.0
+          }
+        }
+      ],
+      "pageName": "Food"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "You may notice food starts tasting bland after a while.  Mix it up, try new foods!  The Food Journal keeps track of what you ate in case you can\u0027t remember.\n\nYou\u0027ll get a Food Journal once the grace period wears off.  If you need a new one, use the recipe below.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 39,
+            "yPos": 23,
+            "width": 148.0,
+            "height": 100.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:wheat:0:minecraft:paper:0",
+            "recipeType": "ShapelessRecipes",
+            "item": "SpiceOfLife:bookfoodjournal",
+            "xPos": 52,
+            "yPos": 131,
+            "width": 128.0,
+            "height": 64.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:fishdinnerItem",
+            "xPos": 246,
+            "yPos": 140,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:starfruitjellysandwichItem",
+            "xPos": 354,
+            "yPos": 163,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Remember,",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 234,
+            "yPos": 24,
+            "width": 62.0,
+            "height": 15.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:baconcheeseburgerItem",
+            "xPos": 242,
+            "yPos": 41,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Mariculture:food 5",
+            "xPos": 306,
+            "yPos": 28,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:strawberrysmoothieItem",
+            "xPos": 300,
+            "yPos": 106,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "harvestcraft:chocolatesprinklecakeItem",
+            "xPos": 359,
+            "yPos": 81,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Variety is the...",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 258,
+            "yPos": 85,
+            "width": 96.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Spice of Life!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 298,
+            "yPos": 147,
+            "width": 85.0,
+            "height": 13.0
+          }
+        }
+      ],
+      "pageName": "Food2"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Tools and Weapons",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF800000",
+            "xPos": 46,
+            "yPos": 25,
+            "width": 158.0,
+            "height": 14.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Have you noticed your pick doesn\u0027t pick?  Does your axe refuse to axe?  Is your sword a wet noodle?  Well, it\u0027s time to get more creative in how you strap stones and sticks together for hitting things.  Tinkers\u0027 Construct is the primary method for building tools in this pack which adds a more customizable method of tool-building.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 38,
+            "yPos": 53,
+            "width": 154.0,
+            "height": 106.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "To start, you\u0027ll need a handful of logs and a sheet of paper to make the book below.  So get to punching trees then read through \"Materials and You\" to learn how to build some new tools.  We\u0027ve added Iguana\u0027s mod, so Tinkers tools will now level up the more you use them, even gaining some new abilities!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 234,
+            "yPos": 27,
+            "width": 154.0,
+            "height": 107.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "TConstruct:blankPattern:0:minecraft:paper:0",
+            "recipeType": "ShapedRecipes",
+            "item": "TConstruct:manualBook 0",
+            "xPos": 248,
+            "yPos": 132,
+            "width": 128.0,
+            "height": 64.0
+          }
+        }
+      ],
+      "pageName": "Tools"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Done with the basics?  Pop your \"Materials and You\" book into a crafting grid to get the second volume which has more advanced tool crafting methods including building a smeltery, melting down metals, and cast new parts to upgrade your current tools or build new tools.  Put Volume 2 in a crafting grid for yet another book.  Do that a few more times and you\u0027ll know everything about Tinkers\u0027 Construct.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 38,
+            "yPos": 37,
+            "width": 150.0,
+            "height": 134.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Need some heavier materials?  Want to triple your ore output instead of double?  Steel is where it\u0027s at.  Use the Tinkers smeltery to smelt cobble into seared stone, then pour that over \"Materials and You Vol 1\" to get  \"Steelworking and You\" book.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 231,
+            "yPos": 80,
+            "width": 156.0,
+            "height": 83.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:manualBook 0",
+            "xPos": 232,
+            "yPos": 20,
+            "width": 27.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:manualBook 1",
+            "xPos": 286,
+            "yPos": 20,
+            "width": 28.0,
+            "height": 28.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:manualBook 2",
+            "xPos": 342,
+            "yPos": 19,
+            "width": 29.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:manualBook 4",
+            "xPos": 256,
+            "yPos": 42,
+            "width": 29.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:manualBook 3",
+            "xPos": 313,
+            "yPos": 42,
+            "width": 29.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TSteelworks:tsteelManual 0",
+            "xPos": 342,
+            "yPos": 162,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TConstruct:manualBook 0",
+            "xPos": 241,
+            "yPos": 163,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Smelt to -\u003e",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF8B0000",
+            "xPos": 281,
+            "yPos": 173,
+            "width": 71.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        }
+      ],
+      "pageName": "Tools2"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Magic",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF8B008B",
+            "xPos": 95,
+            "yPos": 25,
+            "width": 55.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "ThaumBot",
+            "texture": "",
+            "xPos": 222,
+            "yPos": 92,
+            "width": 82.0,
+            "height": 28.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "This section is brimming with magical potential.  Create anything from a floating flower to a massive meteor.  Shoot fire, ice, lightning, and sheep!  Create portals to other dimensions (and hopefully return in one piece)!  Or, maybe just turn that other guy into a toad so you can laugh at him.  You can do all this and more, but you\u0027ll need to start somewhere.  ",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 37,
+            "yPos": 48,
+            "width": 153.0,
+            "height": 121.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "There are 5 big magic mods to cover with multiple add-ons to each.  There are also a handful of other magic-based mods worth mentioning at the end.  Click the links below to jump to each section.\n\n   Thaumcraft\n\n   Botania\n\n   Blood Magic\n\n   Witchery\n\n   Ars Magica 2\n\n   Other magic",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 231,
+            "yPos": 23,
+            "width": 160.0,
+            "height": 171.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Thaumcraft:WandCasting 9 {aqua:5000,terra:5000,ignis:5000,cap:\"gold\",rod:\"greatwood\",ordo:5000,perditio:5000,aer:5000}",
+            "xPos": 221,
+            "yPos": 88,
+            "width": 22.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Botania:twigWand 0 {color1:2,color2:2}",
+            "xPos": 222,
+            "yPos": 103,
+            "width": 17.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "AWWayofTime:weakBloodOrb",
+            "xPos": 223,
+            "yPos": 124,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "witchery:witchhand",
+            "xPos": 224,
+            "yPos": 143,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "arsmagica2:crystal_wrench",
+            "xPos": 224,
+            "yPos": 160,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "WitchingGadgets:item.WG_Baubles 5",
+            "xPos": 224,
+            "yPos": 178,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Blood",
+            "texture": "",
+            "xPos": 223,
+            "yPos": 128,
+            "width": 76.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Witchery",
+            "texture": "",
+            "xPos": 223,
+            "yPos": 146,
+            "width": 74.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "AM2",
+            "texture": "",
+            "xPos": 223,
+            "yPos": 165,
+            "width": 85.0,
+            "height": 29.0
+          }
+        }
+      ],
+      "pageName": "Magic"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Thaumcraft",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF8B008B",
+            "xPos": 70,
+            "yPos": 23,
+            "width": 82.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Magic List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Magic",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Thaumcraft is a huge magical mod that adds magic wands, trinkets, and a complex enchanting and crafting system.  To get the book that will help guide you through the mod, craft the Iron Capped Wooden Wand below, then right click a bookshelf with the wand.  Watch out for purple goo though, it\u0027s nasty stuff.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 39,
+            "yPos": 41,
+            "width": 148.0,
+            "height": 107.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "Thaumcraft:WandCap:0:stickWood:Thaumcraft:WandCap:0",
+            "recipeType": "ShapedOreRecipe",
+            "item": "Thaumcraft:WandCasting 0 {aqua:2500,terra:2500,ignis:2500,ordo:2500,perditio:2500,aer:2500}",
+            "xPos": 37,
+            "yPos": 149,
+            "width": 110.0,
+            "height": 55.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Botania",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF8B008B",
+            "xPos": 287,
+            "yPos": 23,
+            "width": 83.0,
+            "height": 15.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Botania uses the magic of nature to do all sorts of stuff.  Use a flower to craft another flower to spawn more flowers!  Wait, did that flower just eat my cake?  And that one over there, it IS cake!  Craft the Lexica Botania below to get started.  Flower power!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 233,
+            "yPos": 41,
+            "width": 153.0,
+            "height": 89.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "treeSapling:minecraft:book:0",
+            "recipeType": "ShapelessOreRecipe",
+            "item": "Botania:lexicon",
+            "xPos": 258,
+            "yPos": 136,
+            "width": 114.0,
+            "height": 57.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Thaumcraft:ItemThaumonomicon 0",
+            "xPos": 161,
+            "yPos": 156,
+            "width": 26.0,
+            "height": 26.0
+          }
+        }
+      ],
+      "pageName": "ThaumBot"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Blood Magic",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF8B008B",
+            "xPos": 73,
+            "yPos": 21,
+            "width": 114.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Just a little prick is all it takes to get the magic flowing.  You don\u0027t need that zombie, right?  Just toss him in the huge altar to fuel all your nefarious magics.  Sanguimancy is an addon that continues the bloody magical madness.  To begin, craft the Mail Order Catalogue, toss it on the ground and stand back.  Then when you\u0027re good and bloody, craft the Delving Into the Darkness book to go deeper.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 39,
+            "yPos": 41,
+            "width": 145.0,
+            "height": 140.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:book:0:minecraft:dye:0:minecraft:feather:0:minecraft:glass:32767:minecraft:glass:32767",
+            "recipeType": "ShapelessRecipes",
+            "item": "AWWayofTime:itemMailCatalogue",
+            "xPos": 247,
+            "yPos": 36,
+            "width": 128.0,
+            "height": 64.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "Tubes$anyDye:minecraft:writable_book:0:AWWayofTime:weakBloodOrb:0",
+            "recipeType": "ShapedOreRecipe",
+            "item": "guideapi:ItemGuideBook 1 {CreativeBook:0b}",
+            "xPos": 247,
+            "yPos": 118,
+            "width": 128.0,
+            "height": 64.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Magic List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Magic",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        }
+      ],
+      "pageName": "Blood"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Witchery",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF8B008B",
+            "xPos": 71,
+            "yPos": 22,
+            "width": 85.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Brush up on your cackling, pet your black cat and get ready for a ride on your broom.  Witchery brings traditional witchcraft to Minecraft.  The first two books, Witches\u0027 Brews and Book of Biomes will get you started on your path.  Then when you\u0027re ready, try Collecting Fumes, Distilling, Circle Magic, Brews \u0026 Infusions, and Symbology for more advanced magics.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 39,
+            "yPos": 42,
+            "width": 145.0,
+            "height": 137.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:dirt:0:Tubes$anyDye:minecraft:book:0:minecraft:feather:0",
+            "recipeType": "ShapedOreRecipe",
+            "item": "witchery:cauldronbook 0",
+            "xPos": 247,
+            "yPos": 36,
+            "width": 128.0,
+            "height": 64.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:sapling:0:Tubes$anyDye:minecraft:book:0:minecraft:feather:0:minecraft:stone:0",
+            "recipeType": "ShapedOreRecipe",
+            "item": "witchery:ingredient 106",
+            "xPos": 247,
+            "yPos": 118,
+            "width": 128.0,
+            "height": 64.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Magic List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Magic",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        }
+      ],
+      "pageName": "Witchery"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Ars Magica 2",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF8B008B",
+            "xPos": 64,
+            "yPos": 21,
+            "width": 117.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Magic List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Magic",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Shoot a jet of fire, heal yourself up, or mine a huge hole in an instant.  This and more can be yours, if you\u0027re creative enough to write a spell for it.  Ars Magica helps you do that, among many other things.  You\u0027ll need the Arcane Compendium to show you the ropes.  To get it, first find a pool of Essence, strange glowing pools of unknown liquid.  Put a book in an item frame near the pool and wait for the magic to happen.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 39,
+            "yPos": 41,
+            "width": 149.0,
+            "height": 143.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Other Magic",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF8B008B",
+            "xPos": 273,
+            "yPos": 20,
+            "width": 105.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "There are small splashes of magic throughout the pack, see if you can find them!  Mariculture has A Seawitch\u0027s Guide that teaches you about magical jewelry, and the Adventurer\u0027s Guidebook shows you how to create magical trinkets.  There are even magical bees!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 237,
+            "yPos": 38,
+            "width": 152.0,
+            "height": 89.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:book:0:adventurersamulets:AdventurersAmulets_craftingBlock:0",
+            "recipeType": "ShapelessRecipes",
+            "item": "adventurersamulets:AdventurersAmulets_guideBook",
+            "xPos": 238,
+            "yPos": 133,
+            "width": 83.0,
+            "height": 41.5
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Forestry:beePrincessGE 0 {MaxH:20,Health:20,IsAnalyzed:0b,Genome:{Chromosomes:[0:{UID1:\"magicbees.speciesAttuned\",UID0:\"magicbees.speciesAttuned\",Slot:0b},1:{UID1:\"forestry.speedSlowest\",UID0:\"forestry.speedSlowest\",Slot:1b},2:{UID1:\"forestry.lifespanShorter\",UID0:\"forestry.lifespanShorter\",Slot:2b},3:{UID1:\"forestry.fertilityHigh\",UID0:\"forestry.fertilityHigh\",Slot:3b},4:{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:4b},5:{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:5b},6:{UID1:\"forestry.toleranceNone\",UID0:\"forestry.toleranceNone\",Slot:7b},7:{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:8b},8:{UID1:\"forestry.boolFalse\",UID0:\"forestry.boolFalse\",Slot:9b},9:{UID1:\"forestry.flowersVanilla\",UID0:\"forestry.flowersVanilla\",Slot:10b},10:{UID1:\"forestry.floweringSlowest\",UID0:\"forestry.floweringSlowest\",Slot:11b},11:{UID1:\"forestry.territoryAverage\",UID0:\"forestry.territoryAverage\",Slot:12b},12:{UID1:\"forestry.effectNone\",UID0:\"forestry.effectNone\",Slot:13b}]}}",
+            "xPos": 365,
+            "yPos": 120,
+            "width": 23.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "TwilightForest:item.magicMapFocus",
+            "xPos": 333,
+            "yPos": 142,
+            "width": 22.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "xreliquary:emperor_chalice",
+            "xPos": 366,
+            "yPos": 163,
+            "width": 21.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "arsmagica2:ArcaneCompendium",
+            "xPos": 168,
+            "yPos": 14,
+            "width": 23.0,
+            "height": 23.0
+          }
+        }
+      ],
+      "pageName": "AM2"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Technology",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 69,
+            "yPos": 20,
+            "width": 104.0,
+            "height": 14.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Feel like setting up automated mining and ore processing?  Do you feel the need to mass produce battlebots?  Or do you just like watching stuff move around on conveyor belts?  If yes, then technology is right up your alley!  In the following pages you will find some rapid-fire pointers on where to start with the numerous tech mods, and some manuals you can craft to learn more.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 39,
+            "yPos": 44,
+            "width": 146.0,
+            "height": 129.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "This pack features numerous multi-purpose tech mods that have a variety of functions, many of which are not explained in-game so be sure to use NEI and your favorite search engine to learn more.  Many of the familiar mods are here, such as Thermal Expansion, MineFactory Reloaded, Ender IO, and Railcraft.  In the following pages we\u0027ll introduce you to some of the less common tech mods.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 229,
+            "yPos": 20,
+            "width": 159.0,
+            "height": 128.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "MineFactoryReloaded:needlegun",
+            "xPos": 228,
+            "yPos": 148,
+            "width": 51.0,
+            "height": 51.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Steamcraft:charger",
+            "xPos": 283,
+            "yPos": 146,
+            "width": 45.0,
+            "height": 45.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Mekanism:MachineBlock 4",
+            "xPos": 338,
+            "yPos": 146,
+            "width": 49.0,
+            "height": 49.0
+          }
+        }
+      ],
+      "pageName": "Tech"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Tech Mods",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 74,
+            "yPos": 20,
+            "width": 108.0,
+            "height": 15.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Progressive Automation\n\nFlaxbeard\u0027s Steam Power\n\nImmersive Engineering\n\nApplied Energistics 2\n\nPneumaticCraft\n\nRF Tools\n\nRouter Reborn\n\nForestry",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 65,
+            "yPos": 50,
+            "width": 129.0,
+            "height": 139.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "MineChem\n\nMekanism\n\nBluePower\n\nCompact Machines\n\nSteve\u0027s Carts\n\nSteve\u0027s Factory Manager\n\nComputerCraft\n\nEngineers Toolbox\n\nGalacticraft\n\nSync",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 260,
+            "yPos": 31,
+            "width": 133.0,
+            "height": 173.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "progressiveautomation:WoodUpgrade",
+            "xPos": 44,
+            "yPos": 46,
+            "width": 18.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Steamcraft:valvePipe",
+            "xPos": 42,
+            "yPos": 60,
+            "width": 22.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "ImmersiveEngineering:metalDevice 5",
+            "xPos": 39,
+            "yPos": 79,
+            "width": 24.0,
+            "height": 24.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "appliedenergistics2:item.ItemMultiPart 360",
+            "xPos": 43,
+            "yPos": 98,
+            "width": 22.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "PneumaticCraft:drone {currentAir:120000.0f}",
+            "xPos": 40,
+            "yPos": 115,
+            "width": 20.0,
+            "height": 20.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "rftools:realizedDimensionTab",
+            "xPos": 42,
+            "yPos": 134,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "RouterReborn:router",
+            "xPos": 42,
+            "yPos": 153,
+            "width": 17.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minechem:tile.chemicalDecomposer",
+            "xPos": 235,
+            "yPos": 25,
+            "width": 19.0,
+            "height": 19.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "MekanismGenerators:Generator 0",
+            "xPos": 236,
+            "yPos": 44,
+            "width": 18.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "bluepower:part.toggle",
+            "xPos": 235,
+            "yPos": 56,
+            "width": 23.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "CompactMachines:psd",
+            "xPos": 236,
+            "yPos": 80,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "StevesCarts:CartModule 62",
+            "xPos": 236,
+            "yPos": 99,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "StevesFactoryManager:BlockMachineManagerName",
+            "xPos": 237,
+            "yPos": 116,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "ComputerCraft:CC-TurtleAdvanced 0 {leftUpgrade:3s}",
+            "xPos": 237,
+            "yPos": 134,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "eng_toolbox:Module 7",
+            "xPos": 237,
+            "yPos": 152,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "GalacticraftMars:item.itemTier3Rocket 0",
+            "xPos": 236,
+            "yPos": 173,
+            "width": 17.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Progressive",
+            "texture": "",
+            "xPos": 43,
+            "yPos": 47,
+            "width": 149.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Forestry:factory 1",
+            "xPos": 42,
+            "yPos": 171,
+            "width": 17.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "ImmersiveAE2",
+            "texture": "",
+            "xPos": 43,
+            "yPos": 82,
+            "width": 144.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "PNTools",
+            "texture": "",
+            "xPos": 43,
+            "yPos": 120,
+            "width": 123.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "RouterForest",
+            "texture": "",
+            "xPos": 43,
+            "yPos": 155,
+            "width": 114.0,
+            "height": 30.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "MineChem",
+            "texture": "",
+            "xPos": 236,
+            "yPos": 29,
+            "width": 74.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "BlueMekanism",
+            "texture": "",
+            "xPos": 236,
+            "yPos": 48,
+            "width": 82.0,
+            "height": 26.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "CompactCarts",
+            "texture": "",
+            "xPos": 236,
+            "yPos": 80,
+            "width": 118.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "StevesComputer",
+            "texture": "",
+            "xPos": 236,
+            "yPos": 116,
+            "width": 154.0,
+            "height": 30.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Sync:Sync_ItemPlaceholder",
+            "xPos": 238,
+            "yPos": 189,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "GalacticToolbox",
+            "texture": "",
+            "xPos": 236,
+            "yPos": 153,
+            "width": 128.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "Sync",
+            "texture": "",
+            "xPos": 236,
+            "yPos": 192,
+            "width": 51.0,
+            "height": 12.0
+          }
+        }
+      ],
+      "pageName": "TechTOC"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Progressive Automation",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 68,
+            "yPos": 16,
+            "width": 93.0,
+            "height": 24.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Tech List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TechTOC",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Flaxbeard\u0027s Steam Power",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 248,
+            "yPos": 16,
+            "width": 137.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "This mod lets you build a steam-powered smithy and fly around in a steampunk exo-suit.  You can also build a massive machine to thump the ground, loosening ore for you to collect.  To get started, craft the book below which will teach you everything you need to go full steam ahead!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 234,
+            "yPos": 46,
+            "width": 155.0,
+            "height": 94.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:book:0:oreZinc:oreCopper",
+            "recipeType": "ShapelessOreRecipe",
+            "item": "Steamcraft:book",
+            "xPos": 267,
+            "yPos": 139,
+            "width": 98.0,
+            "height": 49.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "progressiveautomation:Killer",
+            "xPos": 38,
+            "yPos": 155,
+            "width": 24.0,
+            "height": 24.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "progressiveautomation:KillerStone",
+            "xPos": 82,
+            "yPos": 156,
+            "width": 25.0,
+            "height": 25.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "progressiveautomation:KillerIron",
+            "xPos": 126,
+            "yPos": 156,
+            "width": 25.0,
+            "height": 25.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "progressiveautomation:KillerDiamond",
+            "xPos": 170,
+            "yPos": 156,
+            "width": 25.0,
+            "height": 25.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-\u003e",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 67,
+            "yPos": 163,
+            "width": 21.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-\u003e",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 112,
+            "yPos": 163,
+            "width": 16.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "-\u003e",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 156,
+            "yPos": 164,
+            "width": 16.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "This is a great mod to get you started early with basic automation.  Just a bit of wood lets you build a farm, miner, wood harvester, and mob killer. There\u0027s also a basic generator for early game power.  Once you progress further, the machines can be upgraded for better effectiveness.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 37,
+            "yPos": 46,
+            "width": 154.0,
+            "height": 101.0
+          }
+        }
+      ],
+      "pageName": "Progressive"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Immersive Engineering",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 32,
+            "yPos": 16,
+            "width": 216.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Tech List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TechTOC",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Applied Energistics 2",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 235,
+            "yPos": 16,
+            "width": 180.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "A more realistic attempt at power generation and transmission, using actual power lines!  There are large multiblock structures to make power, and then larger machines to use that power.  Get the book below to learn all about it.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 36,
+            "yPos": 35,
+            "width": 155.0,
+            "height": 76.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:book:0:minecraft:lever:0",
+            "recipeType": "ShapelessOreRecipe",
+            "item": "ImmersiveEngineering:tool 3",
+            "xPos": 55,
+            "yPos": 130,
+            "width": 128.0,
+            "height": 64.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Does your item storage look like Soaryn threw chests everywhere?  Looking for a powerful automation system?  Look no further!  AE2 stores your items digitally on hard drives, and uses a networking system to connect machines together so everything can be accessed from a single terminal.  Build the Meteorite Compass and get to searching for the components you need to start.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 231,
+            "yPos": 33,
+            "width": 168.0,
+            "height": 117.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "appliedenergistics2:tile.BlockSkyCompass",
+            "xPos": 291,
+            "yPos": 156,
+            "width": 37.0,
+            "height": 37.0
+          }
+        }
+      ],
+      "pageName": "ImmersiveAE2"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "PneumaticCraft",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 56,
+            "yPos": 17,
+            "width": 148.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Tech List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TechTOC",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "RF Tools",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 276,
+            "yPos": 16,
+            "width": 86.0,
+            "height": 15.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "This mod is all about applying pressure in the right ways to get things done.  With this mod, you can shoot items with an air cannon, compress coal into diamonds and build a drone to fly around to do your bidding.\n\nThis mod features an in-game wiki that can be accessed by the I key by default, it will teach you everything you need to know.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 39,
+            "yPos": 34,
+            "width": 151.0,
+            "height": 125.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "PneumaticCraft:assemblyDrill",
+            "xPos": 46,
+            "yPos": 155,
+            "width": 29.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "PneumaticCraft:logisticDrone {volume:12000.0f,UpgradeInventory:{},currentAir:120000.0f}",
+            "xPos": 97,
+            "yPos": 155,
+            "width": 29.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "PneumaticCraft:vacuumPump",
+            "xPos": 143,
+            "yPos": 153,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Tired of the normal world?  Build a new one!  Then use a teleporter to get there.  There\u0027s also power generation, item storage, force fields, and much more!  To get started, check out the two books below.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 237,
+            "yPos": 36,
+            "width": 151.0,
+            "height": 70.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:redstone:0:minecraft:redstone:0:minecraft:book:0:minecraft:redstone:0:minecraft:redstone:0",
+            "recipeType": "ShapedRecipes",
+            "item": "rftools:rfToolsManualItem",
+            "xPos": 229,
+            "yPos": 110,
+            "width": 82.0,
+            "height": 41.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:redstone:0:minecraft:redstone:0:minecraft:book:0:minecraft:redstone:0:minecraft:redstone:0",
+            "recipeType": "ShapedRecipes",
+            "item": "rftools:rfToolsManualDimensionItem",
+            "xPos": 311,
+            "yPos": 144,
+            "width": 82.0,
+            "height": 41.0
+          }
+        }
+      ],
+      "pageName": "PNTools"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Router Reborn",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 58,
+            "yPos": 16,
+            "width": 137.0,
+            "height": 15.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Tech List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TechTOC",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Forestry",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 278,
+            "yPos": 16,
+            "width": 97.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "This features a powerful item, fluid, and energy routing system that is highly customizable and can even be camouflaged.  Check out the book below for all the info you will need to get started.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 37,
+            "yPos": 37,
+            "width": 149.0,
+            "height": 72.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "RouterReborn:itemportablecraft",
+            "xPos": 87,
+            "yPos": 128,
+            "width": 28.0,
+            "height": 28.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:book",
+            "xPos": 43,
+            "yPos": 129,
+            "width": 25.0,
+            "height": 25.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "+",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 76,
+            "yPos": 136,
+            "width": 16.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003d",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 122,
+            "yPos": 137,
+            "width": 16.0,
+            "height": 8.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "RouterReborn:routerManual 0",
+            "xPos": 139,
+            "yPos": 127,
+            "width": 27.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Forestry adds automated farms and energy production as well as some production machines. Another huge component of the mod is a detailed breeding system for bees, trees, and butterflies.  Binnie\u0027s mods adds more bees and trees to the mix.  It also adds a complete new addition of flower breeding, brewing, and a fine tuned genetic manipulation system to complement the breeding.  Gendustry adds a similar yet unique genetic manipulation system for everything except the flowers added by Binnie\u0027s.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 229,
+            "yPos": 31,
+            "width": 165.0,
+            "height": 152.0
+          }
+        }
+      ],
+      "pageName": "RouterForest"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "MineChem",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 79,
+            "yPos": 18,
+            "width": 93.0,
+            "height": 24.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Tech List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TechTOC",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Tired of the normal crafting methods?  Try breaking everything down into its base elements then reform them to your will.  Turn wood into cellulose, which breaks down to carbon, hydrogen, and oxygen.  Reform that into some water and have enough carbon left over to make coal.  Or, just burn the hydrogen for fuel, vent the oxygen, and compress all that carbon straight into a diamond.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 40,
+            "yPos": 34,
+            "width": 145.0,
+            "height": 135.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "You can also make drugs, or use the elements to amplify your multi-tool.  The Chemist\u0027s Journal keeps track of the recipes you discover, but doesn\u0027t give any additional information.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 235,
+            "yPos": 27,
+            "width": 152.0,
+            "height": 65.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:book:0:minecraft:glass:0",
+            "recipeType": "ShapelessRecipes",
+            "item": "minechem:minechemJournal",
+            "xPos": 248,
+            "yPos": 108,
+            "width": 128.0,
+            "height": 64.0
+          }
+        }
+      ],
+      "pageName": "MineChem"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Mekanism",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 80,
+            "yPos": 16,
+            "width": 93.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Tech List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TechTOC",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "BluePower",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 273,
+            "yPos": 16,
+            "width": 120.0,
+            "height": 18.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Mekanism features a deeply complex ore multiplication system, with anywhere from 2x to 5x output.  It\u0027s got a teleporter, a molecular disassembler, hydrogen generator, a multiblock salination plant, and even cardboard boxes.  Yep, there\u0027s a lot of things going on in Mekanism.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 39,
+            "yPos": 37,
+            "width": 150.0,
+            "height": 99.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Mekanism:MachineBlock2 6",
+            "xPos": 42,
+            "yPos": 145,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Mekanism:MachineBlock2 8",
+            "xPos": 147,
+            "yPos": 146,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Mekanism:MachineBlock3 1",
+            "xPos": 93,
+            "yPos": 145,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Redstone not enough?  Bluepower does everything redstone can do, but it\u0027s blue!  It adds logic gates for more compact and complex redstone operations, and a (blue) redstone wire that\u0027s more versatile than redstone dust.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 235,
+            "yPos": 34,
+            "width": 150.0,
+            "height": 81.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "bluepower:part.timer",
+            "xPos": 248,
+            "yPos": 132,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "bluepower:part.cagelamp.yellow",
+            "xPos": 297,
+            "yPos": 136,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "bluepower:part.wire.redalloy.bundled.gray",
+            "xPos": 344,
+            "yPos": 136,
+            "width": 32.0,
+            "height": 32.0
+          }
+        }
+      ],
+      "pageName": "BlueMekanism"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Compact Machines",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 51,
+            "yPos": 17,
+            "width": 153.0,
+            "height": 26.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Tech List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TechTOC",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Steve\u0027s Carts",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 261,
+            "yPos": 16,
+            "width": 138.0,
+            "height": 21.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Running out of room?  Want a more compact ore processing station?  Why not shove it all into another dimension?  This curious mod lets you take one block and tie it to a space in another dimension where you can build multiple machines, pipes, and other gadgets.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 38,
+            "yPos": 40,
+            "width": 155.0,
+            "height": 82.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "CompactMachines:machine 0",
+            "xPos": 47,
+            "yPos": 136,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "CompactMachines:machine 3",
+            "xPos": 100,
+            "yPos": 135,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "CompactMachines:machine 5",
+            "xPos": 152,
+            "yPos": 135,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Are regular minecarts not cutting it?  Why not build your own?  You can strap a drill to the front, coal fired engine on the back, and even a seat on top to drive it yourself.  It can even look like a pig for some reason!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 232,
+            "yPos": 37,
+            "width": 151.0,
+            "height": 72.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "StevesCarts:CartModule 8 {Data:100b}",
+            "xPos": 337,
+            "yPos": 138,
+            "width": 24.0,
+            "height": 24.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "StevesCarts:CartModule 39",
+            "xPos": 301,
+            "yPos": 136,
+            "width": 26.0,
+            "height": 26.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "StevesCarts:CartModule 0",
+            "xPos": 264,
+            "yPos": 135,
+            "width": 26.0,
+            "height": 26.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "StevesCarts:CartModule 3",
+            "xPos": 301,
+            "yPos": 108,
+            "width": 25.0,
+            "height": 25.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "StevesCarts:CartModule 7",
+            "xPos": 301,
+            "yPos": 164,
+            "width": 26.0,
+            "height": 26.0
+          }
+        }
+      ],
+      "pageName": "CompactCarts"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Steve\u0027s Factory Manager",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 82,
+            "yPos": 16,
+            "width": 104.0,
+            "height": 42.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Tech List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TechTOC",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "ComputerCraft",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 259,
+            "yPos": 18,
+            "width": 137.0,
+            "height": 29.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Do you like flowcharts and logic?  This mod lets you craft a complex flowchart to automate any machine or inventory connected to its cable system.  It is incredibly powerful and does exactly what you tell it to do.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 42,
+            "yPos": 63,
+            "width": 146.0,
+            "height": 85.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "StevesFactoryManager:BlockMachineManagerName",
+            "xPos": 63,
+            "yPos": 147,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "StevesFactoryManager:BlockCableClusterName 8",
+            "xPos": 126,
+            "yPos": 147,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Redstone not quite cutting it?  With this mod you can build a computer, then program it to do whatever you need.  It is incredibly powerful, letting you do just about anything you can imagine.  OpenPeripherals and Peripherals++ open the doors to interact with just about everything in the game using the LUA code.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 240,
+            "yPos": 41,
+            "width": 148.0,
+            "height": 108.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "PeripheralsPlusPlus:turtle",
+            "xPos": 239,
+            "yPos": 153,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "RandomThings:playerinterface",
+            "xPos": 298,
+            "yPos": 155,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "PeripheralsPlusPlus:meBridge",
+            "xPos": 352,
+            "yPos": 156,
+            "width": 32.0,
+            "height": 32.0
+          }
+        }
+      ],
+      "pageName": "StevesComputer"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Engineer\u0027s Toolbox",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 77,
+            "yPos": 17,
+            "width": 93.0,
+            "height": 24.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Tech List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TechTOC",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Galacticraft",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 272,
+            "yPos": 17,
+            "width": 120.0,
+            "height": 27.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Are traditional machines not doing exactly what you need?  With this you can make a customized machine that could have multiple features in one.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 41,
+            "yPos": 51,
+            "width": 145.0,
+            "height": 57.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "eng_toolbox:Module 9",
+            "xPos": 46,
+            "yPos": 139,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "eng_toolbox:Module 10",
+            "xPos": 141,
+            "yPos": 140,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "eng_toolbox:Module 70",
+            "xPos": 77,
+            "yPos": 140,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "eng_toolbox:Module 75",
+            "xPos": 77,
+            "yPos": 108,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "eng_toolbox:Module 45",
+            "xPos": 78,
+            "yPos": 171,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "eng_toolbox:Module 109",
+            "xPos": 110,
+            "yPos": 139,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "eng_toolbox:modular_socket",
+            "xPos": 141,
+            "yPos": 104,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Spaaaaaaace!  Strap on some oxygen tanks and blast off to the moon, then figure out how to get to Mars.  This unique mod adds rockets, moon buggies, your own space station, and entire planets to explore.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 240,
+            "yPos": 38,
+            "width": 146.0,
+            "height": 78.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "GalacticraftMars:item.spaceshipTier2 13",
+            "xPos": 224,
+            "yPos": 124,
+            "width": 48.0,
+            "height": 48.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "GalacticraftMars:item.itemTier3Rocket 1",
+            "xPos": 286,
+            "yPos": 130,
+            "width": 40.0,
+            "height": 40.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "GalacticraftCore:item.buggy",
+            "xPos": 350,
+            "yPos": 128,
+            "width": 42.0,
+            "height": 42.0
+          }
+        }
+      ],
+      "pageName": "GalacticToolbox"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Sync",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 91,
+            "yPos": 17,
+            "width": 60.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to Tech List",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 223,
+            "yPos": 198,
+            "width": 132.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TechTOC",
+            "texture": "",
+            "xPos": 221,
+            "yPos": 197,
+            "width": 108.0,
+            "height": 10.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Do you never get tired of yourself?  Think you could handle more of you?  Sync lets you create clones of yourself, then swap consciousness between the clones acting as a sort of teleportation.  Or, you could just proudly display your clone in your house, because why not?  Also, you can make a pig run on a treadmill.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 37,
+            "yPos": 36,
+            "width": 157.0,
+            "height": 111.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Sync:Sync_BlockPlacer 0",
+            "xPos": 58,
+            "yPos": 148,
+            "width": 45.0,
+            "height": 45.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "Sync:Sync_BlockPlacer 1",
+            "xPos": 126,
+            "yPos": 150,
+            "width": 44.0,
+            "height": 44.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Big Reactors",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF00008B",
+            "xPos": 260,
+            "yPos": 19,
+            "width": 114.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "All this tech draining your batteries?  As the name implies, you can make a big reactor to fulfill all of your power needs.  Build a huge multiblock reactor to produce energy, or pump in some water and superheat it into steam to power an even bigger turbine.  Is 25k RF/Tick enough?  No, really?  Ok why not build two instead?",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 239,
+            "yPos": 38,
+            "width": 145.0,
+            "height": 114.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "BigReactors:BRReactorPart 3",
+            "xPos": 348,
+            "yPos": 154,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "BigReactors:BRTurbinePart 1",
+            "xPos": 290,
+            "yPos": 152,
+            "width": 32.0,
+            "height": 32.0
+          }
+        }
+      ],
+      "pageName": "Sync"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Other Mods",
+            "wrap": 0,
+            "size": 1.5,
+            "color": "FF006400",
+            "xPos": 69,
+            "yPos": 20,
+            "width": 114.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Many things simply defy categorization or description.  But that doesn\u0027t mean they\u0027re not important, or fun!  Included in this section are books you can craft, places to start with certain mods, or at least some general information to get you curious enough to find out more on your own.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 43,
+            "yPos": 42,
+            "width": 144.0,
+            "height": 108.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Utility Mobs",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FFB22222",
+            "xPos": 280,
+            "yPos": 20,
+            "width": 88.0,
+            "height": 13.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Need some help out in the wild?  Do you want a furnace and crafting station to follow you wherever you go?  You can build golems that will follow you around and help out.  Just craft a book with the following items to get the manuals and learn how to build your own friends!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 234,
+            "yPos": 37,
+            "width": 154.0,
+            "height": 85.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:book",
+            "xPos": 251,
+            "yPos": 150,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:book",
+            "xPos": 251,
+            "yPos": 132,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:book",
+            "xPos": 328,
+            "yPos": 138,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:book",
+            "xPos": 251,
+            "yPos": 169,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:book",
+            "xPos": 328,
+            "yPos": 157,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "+\n\n+\n\n+",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 272,
+            "yPos": 137,
+            "width": 16.0,
+            "height": 48.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:pumpkin",
+            "xPos": 282,
+            "yPos": 132,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:dispenser",
+            "xPos": 282,
+            "yPos": 151,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:skull 0",
+            "xPos": 281,
+            "yPos": 170,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:skull 1",
+            "xPos": 355,
+            "yPos": 156,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "minecraft:skull 4",
+            "xPos": 355,
+            "yPos": 137,
+            "width": 16.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "+\n\n+",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 349,
+            "yPos": 142,
+            "width": 16.0,
+            "height": 27.0
+          }
+        }
+      ],
+      "pageName": "Other"
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Mariculture",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF008080",
+            "xPos": 82,
+            "yPos": 18,
+            "width": 71.0,
+            "height": 12.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Mariculture makes the oceans pretty!  It also expands on the fishing system to add a variety of fish to catch, alive or not so much.  You can also breed fish that you catch, breathe underwater, make magical jewelry, and even do some factorization using water-based processes.  Check the books below for more information.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 40,
+            "yPos": 34,
+            "width": 148.0,
+            "height": 109.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "Mariculture:crafting:14:minecraft:book:0",
+            "recipeType": "ShapelessOreRecipe",
+            "item": "Mariculture:guide 0",
+            "xPos": 62,
+            "yPos": 146,
+            "width": 107.0,
+            "height": 53.5
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "Mariculture:crafting:11:minecraft:book:0",
+            "recipeType": "ShapelessOreRecipe",
+            "item": "Mariculture:guide 2",
+            "xPos": 226,
+            "yPos": 16,
+            "width": 94.0,
+            "height": 47.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "Mariculture:snorkel:0:minecraft:book:0",
+            "recipeType": "ShapelessOreRecipe",
+            "item": "Mariculture:guide 1",
+            "xPos": 297,
+            "yPos": 61,
+            "width": 94.0,
+            "height": 47.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "Mariculture:rod_reed:0:minecraft:book:0",
+            "recipeType": "ShapelessOreRecipe",
+            "item": "Mariculture:guide 3",
+            "xPos": 229,
+            "yPos": 104,
+            "width": 92.0,
+            "height": 46.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "Mariculture:pearls:32767:minecraft:book:0",
+            "recipeType": "ShapelessOreRecipe",
+            "item": "Mariculture:guide 4",
+            "xPos": 298,
+            "yPos": 153,
+            "width": 92.0,
+            "height": 46.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Adventure Ahoy!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FFFF8C00",
+            "xPos": 69,
+            "yPos": 17,
+            "width": 103.0,
+            "height": 11.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "There are multiple mods that add some extra-dimensional adventure to the game.  RFTools and GalacticCraft were mentioned before, and then there are these things:\r\n\r\nTwilight Forest is a new magical dimension with goblins, kobolds, hydra, and much more!  Raid a lich\u0027s house, defeat a naga, or fight through minotaur in a winding labyrinth.  To get started, make a 2x2 pool of water surrounded by flowers, then toss in a diamond and hop in!",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 40,
+            "yPos": 35,
+            "width": 150.0,
+            "height": 160.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Roguelike Dungeons adds randomized dungeons to the overworld that get progressively harder as you venture deeper.  Find a building that looks like a round castle turret and descend into the depths.\r\n\r\nDon\u0027t want huge cavernous holes in your overworld created by strip mining?  Head to Aroma1997\u0027s Dimensional Mining world and dig up all of the things!  Just build a nether portal out of the Portal Frame bricks, then light it with a Mining Multitool.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 235,
+            "yPos": 27,
+            "width": 150.0,
+            "height": 161.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Enhanced Portals",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF800000",
+            "xPos": 66,
+            "yPos": 18,
+            "width": 109.0,
+            "height": 13.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Nether portals are so last year.  Make a new portal!  Make it go wherever you want, look however you want, and transport whatever you want.  You can lock it down to players-only, or even specific players.  You can send create portals to any dimension, or even somewhere else in the same dimension.  Read more in the book below.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 39,
+            "yPos": 37,
+            "width": 151.0,
+            "height": 111.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "minecraft:book:0:enhancedportals:location_card:0",
+            "recipeType": "ShapelessOreRecipe",
+            "item": "enhancedportals:manual",
+            "xPos": 65,
+            "yPos": 149,
+            "width": 101.0,
+            "height": 50.5
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Mine \u0026 Blade: BattleGear 2",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF000000",
+            "xPos": 282,
+            "yPos": 17,
+            "width": 82.0,
+            "height": 22.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "This mod modifies combat in some interesting ways.  You can dual wield weapons, or make use of a shield in your off-hand to deflect some damage.  There are also a ton of new weapons to craft, each with different combat styles.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 238,
+            "yPos": 42,
+            "width": 146.0,
+            "height": 84.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "battlegear2:waraxe.diamond 0",
+            "xPos": 240,
+            "yPos": 130,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "battlegear2:mace.iron 0",
+            "xPos": 272,
+            "yPos": 156,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "battlegear2:spear.gold 0",
+            "xPos": 319,
+            "yPos": 133,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "battlegear2:shield.hide 0",
+            "xPos": 346,
+            "yPos": 156,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Funky Locomotion",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF4B0082",
+            "xPos": 71,
+            "yPos": 19,
+            "width": 109.0,
+            "height": 23.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "It\u0027s a funky name, and it does funky things.  You can create frames, put them in any shape you want, attach whatever blocks you want, then move the whole contraption!  It opens up many possibilities for automation and transportation.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 42,
+            "yPos": 37,
+            "width": 144.0,
+            "height": 93.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "funkylocomotion:frame 0",
+            "xPos": 98,
+            "yPos": 146,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "funkylocomotion:pusher 0",
+            "xPos": 144,
+            "yPos": 145,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureItem",
+          "properties": {
+            "item": "funkylocomotion:pusher 6",
+            "xPos": 51,
+            "yPos": 145,
+            "width": 32.0,
+            "height": 32.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Decoration Mods",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF228B22",
+            "xPos": 270,
+            "yPos": 18,
+            "width": 114.0,
+            "height": 13.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "With Chisel you can turn many vanilla and some mod-added blocks into decorative variants.  Give your pumpkin a different face, make your glass look like a chain link fence, or get fancy with your wood plank flooring.\r\n\r\nDecoCraft adds many items to decorate your home, laboratory, or dungeon.  You can make a stuffed pig, a sign for your shop, a christmas tree, a chandelier, and much more. Craft some crafting clay and a Decobench to get started.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 237,
+            "yPos": 36,
+            "width": 150.0,
+            "height": 162.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Decoration Mods Cont.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF228B22",
+            "xPos": 55,
+            "yPos": 19,
+            "width": 126.0,
+            "height": 15.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Carpenter\u0027s Blocks adds the unique option for sloped blocks, and the ability to hammer blocks into different shapes.  You can also texture a variety of items however you want.\r\n\r\nMalisis\u0027s Doors animates vanilla doors instead of just being either open or closed.  It also adds new styles of doors, force fields, block mixing, vanishing walls, and even completely customized doors.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 41,
+            "yPos": 37,
+            "width": 147.0,
+            "height": 153.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Storage Mods",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FFDC143C",
+            "xPos": 278,
+            "yPos": 18,
+            "width": 89.0,
+            "height": 17.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "So many items, so much storage available.  Just about every mod previously mentioned in this book has some form of storage option available.  The following mods focus solely on storage options;\r\n\r\nCompact Storage lets you make chests and backpacks of a custom size and color.\r\n\r\nIron Chest makes chests out of various metals that can store more than a normal chest, and can be upgraded later.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 235,
+            "yPos": 35,
+            "width": 156.0,
+            "height": 148.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Storage Mods Cont.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FFDC143C",
+            "xPos": 67,
+            "yPos": 16,
+            "width": 112.0,
+            "height": 16.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Ender Storage expands on the idea of the ender chest, including a tank for liquid storage, and a pouch you can take with you to access the ender chest contents.  They can also be color-coded for many different ender storage locations.\r\n\r\nJabba adds barrels to store large quantities of the same item in one place, up to hundreds or thousands of stacks of the same item.",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 41,
+            "yPos": 35,
+            "width": 148.0,
+            "height": 140.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Other, Other, Other Mods",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF4169E1",
+            "xPos": 281,
+            "yPos": 17,
+            "width": 76.0,
+            "height": 26.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "There are many other mods to discover in this pack, simply too many to describe in this book.  Please be sure to check NEI for recipes, and search for any mod in this pack to learn more about it.\n\nContact us on Curse if you have questions or suggestions.\n\n-blade1981m\n-TwinMinds\n-bart1ebee",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 239,
+            "yPos": 45,
+            "width": 145.0,
+            "height": 142.0
+          }
+        },
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "\u003c- Back to TOC",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 130,
+            "yPos": 199,
+            "width": 97.0,
+            "height": 9.0
+          }
+        },
+        {
+          "type": "FeatureJump",
+          "properties": {
+            "jumpTo": "TOC",
+            "texture": "",
+            "xPos": 128,
+            "yPos": 197,
+            "width": 78.0,
+            "height": 11.0
+          }
+        }
+      ],
+      "pageName": ""
+    }
+  ],
+  "uniqueName": "YAKS_Pack_Manual",
+  "color": 16777215,
+  "showBackground": true,
+  "showArrows": true,
+  "showNumber": true,
+  "iconPass1": "",
+  "iconPass2": "",
+  "iconColorisePass1": false,
+  "iconColorisePass2": false,
+  "iconColorPass1": 0,
+  "iconColorPass2": 0,
+  "language": "en_US",
+  "displayName": "Y.A.K.S. Pack Manual",
+  "displayInCreative": true
+}
