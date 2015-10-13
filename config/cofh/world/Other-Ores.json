@@ -39,7 +39,7 @@
             {"name": "appliedenergistics2:tile.OreQuartz", "weight":95},
             {"name": "appliedenergistics2:tile.OreQuartzCharged", "weight":5}
         ],
-        "clusterSize": 8,
+        "clusterSize": 2,
         "numClusters": 8,
         "minHeight": 38,
         "maxHeight": 54,
