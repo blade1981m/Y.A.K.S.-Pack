@@ -57,4 +57,4 @@ mods.extraUtils.QED.removeRecipe(ETIngotCopper);
 //InputStack, OutputStack1, Turns, OutputStack2, OutputStackChance2, OutputStack3, OutputStackChance3
 //mods.appeng.Grinder.addRecipe(TEOreCopper, <ThermalFoundation:material:32>, 4, <ThermalFoundation:material:32>, 0.9);
 //InputRF, InputStack, OutputStack1, OutputStack2, Chance
-mods.thermalexpansion.Pulverizer.addRecipe(4000, TEOreCopper, <ThermalFoundation:material:32>*2, <ThermalFoundation:material:1>, 10);
+//mods.thermalexpansion.Pulverizer.addRecipe(4000, TEOreCopper, <ThermalFoundation:material:32>*2, <ThermalFoundation:material:1>, 10);
