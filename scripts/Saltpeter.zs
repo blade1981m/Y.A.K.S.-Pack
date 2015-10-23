@@ -11,8 +11,8 @@ val oresaltpeter = <ore:dustSaltpeter>;
 
 oresaltpeter.remove(niter);
 
-//mods.appeng.Grinder.removeRecipe(niter);
-//mods.appeng.Grinder.addRecipe(saltpeterore, saltpeter * 10, 16);
+mods.appeng.Grinder.removeRecipe(niter);
+mods.appeng.Grinder.addRecipe(saltpeterore, saltpeter * 10, 16);
 
 //mods.mekanism.Crusher.removeRecipe(niter);
 //mods.mekanism.Crusher.addRecipe(<minecraft:gunpowder>, saltpeter);
