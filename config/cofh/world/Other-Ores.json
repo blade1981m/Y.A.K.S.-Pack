@@ -1,7 +1,7 @@
 {
 "Sulfur": {
         "template": "uniform",
-        "block": "Railcraft:tile.railcraft.ore",
+        "block": "Railcraft:ore",
         "material": "stone",
         "clusterSize": 4,
         "numClusters": 4,
@@ -97,27 +97,7 @@
         ],
         "material": "stone",
         "clusterSize": 25,
-        "numClusters": 4,
-        "minHeight": 32,
-        "maxHeight": 128,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-"Limestone2": {
-        "template": "uniform",
-        "block": [
-            {"name": "chisel:limestone", "weight":90},
-            {"name": "Mariculture:rocks", "metadata": 3, "weight":10}
-        ],
-        "material": "stone",
-        "clusterSize": 25,
-        "numClusters": 3,
+        "numClusters": 7,
         "minHeight": 32,
         "maxHeight": 128,
         "retrogen": "true",
