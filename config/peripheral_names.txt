@@ -1,5 +1,9 @@
 #OpenPeripheral user-friendly names
 #class_name	user_name
+com.jaquadro.minecraft.storagedrawers.block.tile.TileEntityDrawersStandard	storagedrawers_container_drawers
+crazypants.enderio.conduit.TileConduitBundle	blockconduitbundletileentity
+crazypants.enderio.machine.capbank.TileCapBank	tile_blockcapacitorbank_name
+crazypants.enderio.machine.monitor.TilePowerMonitor	tile_blockpowermonitor
 io.github.alex_hawks.SanguineExtras.common.constructs.TileChest	container_sanguine_chest
 net.minecraft.block.BlockJukebox$TileEntityJukebox	record_player
 net.minecraft.tileentity.TileEntityBeacon	beacon
@@ -17,3 +21,4 @@ net.minecraft.tileentity.TileEntityHopper	hopper
 net.minecraft.tileentity.TileEntityNote	note_block
 net.minecraft.tileentity.TileEntitySign	sign
 net.minecraft.tileentity.TileEntitySkull	skull
+powercrystals.minefactoryreloaded.tile.transport.TileEntityConveyor	conveyor_belt

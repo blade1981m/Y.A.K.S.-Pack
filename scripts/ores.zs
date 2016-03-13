@@ -34,15 +34,16 @@ oreCopper.remove(TCOreCopper);
 oreCopper.remove(BPOreCopper);
 oreCopper.remove(ETOreCopper);
 
-ingotCopper.remove(GCIngotCopper);
+//Uncomment after fixing ores
+//ingotCopper.remove(GCIngotCopper);
 //ingotCopper.remove(FIngotCopper);
-ingotCopper.remove(IEIngotCopper);
-ingotCopper.remove(MeIngotCopper);
-ingotCopper.remove(RIngotCopper);
-ingotCopper.remove(SIngotCopper);
+//ingotCopper.remove(IEIngotCopper);
+//ingotCopper.remove(MeIngotCopper);
+//ingotCopper.remove(RIngotCopper);
+//ingotCopper.remove(SIngotCopper);
 //ingotCopper.remove(TCIngotCopper);
-ingotCopper.remove(BPIngotCopper);
-ingotCopper.remove(ETIngotCopper);
+//ingotCopper.remove(BPIngotCopper);
+//ingotCopper.remove(ETIngotCopper);
 
 mods.extraUtils.QED.removeRecipe(FIngotCopper);
 mods.extraUtils.QED.removeRecipe(IEIngotCopper);

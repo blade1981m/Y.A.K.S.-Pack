@@ -26,4 +26,4 @@ mods.tconstruct.Casting.addTableRecipe(<EnderIO:itemAlloy>, <liquid:steel.molten
 mods.tconstruct.Casting.removeTableRecipe(<EnderIO:itemAlloy:3>);
 mods.tconstruct.Casting.addTableRecipe(<EnderIO:itemAlloy:3>, <liquid:redstone> * 100, silicon, false, 20);
 
-NEI.hide(<EnderIO:itemMaterial:0>);
+//NEI.hide(<EnderIO:itemMaterial:0>);
